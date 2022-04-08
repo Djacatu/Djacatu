@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Djacatu
 - 👀 I’m interested in website and software development
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT as i want to apply for a jr web Developer
+- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: djalomansur@gmail.com
 
